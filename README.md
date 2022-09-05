@@ -13,7 +13,7 @@ However, if we decide to implement an idea we need at least one to two champions
 
 ### Champion
 
-A champion is someone who leads the realisation of an idea or a project. A Champion will most likely have the opportunity to become the maintainer of his own project or tool created.
+A champion is someone who leads the realization of an idea or a project. A Champion will most likely have the opportunity to become the maintainer of its project or tool created.
 
 > **Note**: Being a champion is a great way to be elected core contributor.
 >
