@@ -1,4 +1,7 @@
-# rfcs
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/4438263/265200765-e879623b-822f-4ac6-98f6-0dc054321500.jpg" alt="rfcs">
+</p>
+
 💬 Exchange and discuss the future of NodeSecure.
 
 ## What for?
