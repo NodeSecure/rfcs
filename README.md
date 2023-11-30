@@ -18,9 +18,9 @@ However, if we decide to implement an idea we need at least one to two champions
 
 A champion is someone who leads the realization of an idea or a project. A Champion will most likely have the opportunity to become the maintainer of its project or tool created.
 
-> **Note**: Being a champion is a great way to be elected core contributor.
->
+> [!NOTE]
+> Being a champion is a great way to be elected core contributor.
+
 > Examples of past ideas that current core team members have implemented:
 > - [authors](https://github.com/NodeSecure/authors) by Vincent DHENNIN
-> - [preview](https://github.com/NodeSecure/preview) by Tony GOREZ
 > - [ci](https://github.com/NodeSecure/ci) by Antoine COULON
